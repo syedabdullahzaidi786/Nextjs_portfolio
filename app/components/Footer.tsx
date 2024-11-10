@@ -21,17 +21,17 @@ export default function Footer() {
           </div>
           <div className="space-y-4">
             <h4 className="text-lg font-semibold text-gray-200">Contact</h4>
-            <p className="text-gray-400">Email: johndoe@example.com</p>
+            <p className="text-gray-400">Email: syedabdullahzaidi473@gmail.com</p>
             <p className="text-gray-400">Phone: +1 (123) 456-7890</p>
           </div>
           <div className="space-y-4">
             <h4 className="text-lg font-semibold text-gray-200">Follow Me</h4>
             <div className="flex space-x-4">
-              <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-400 transition-colors">
+              <a href="https://github.com/syedabdullahzaidi786" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-400 transition-colors">
                 <Github className="w-6 h-6" />
                 <span className="sr-only">GitHub</span>
               </a>
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-400 transition-colors">
+              <a href="https://www.linkedin.com/in/syed-abdullah-zaidi-a281552b5/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-400 transition-colors">
                 <Linkedin className="w-6 h-6" />
                 <span className="sr-only">LinkedIn</span>
               </a>
